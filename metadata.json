@@ -1,0 +1,6 @@
+{
+  "name": "MedCore HBRMS",
+  "description": "Hospital Bed & Resource Management System with real-time tracking, bed allocation, and analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": []
+}
