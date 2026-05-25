@@ -12,7 +12,7 @@
 
 ### Dashboard
 
-![MedCore Dashboard](screenshots/dashboard.png)
+
 
 ### AI Detection Result
 
