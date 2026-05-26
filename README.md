@@ -8,11 +8,11 @@
 
 ### Login Page
 
-![MedCore Login Page](screenshots/login.png)
+![MedCore Login Page](GoldeenResponse/screenshots/login.png)
 
 ### Dashboard
 
-
+![MedCore Dashboard](GoldeenResponse/screenshots/dashboard.png)
 
 ### AI Detection Result
 
